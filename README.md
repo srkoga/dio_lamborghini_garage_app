@@ -39,5 +39,9 @@ Este é um aplicativo da "Lamborghini Garage" desenvolvido com React Native que 
 * **Inicie o servidor:** Para executar o projeto, use o comando "npm rum start" e rode o app no emulador ou no celular de acordo com a sua escolha. 
 
 * **Rodando o app:** Pressionar `a` no terminal para abrir no **Android emulator/device**.
+
+## 🎆 Referências
+
+[Lamborghini Garage - FelipeAguiar (DIO Bootcamp)](https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app)
       
 # Bom consumo de api ... 🖥
